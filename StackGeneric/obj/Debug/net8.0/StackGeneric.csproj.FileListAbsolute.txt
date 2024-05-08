@@ -1,0 +1,14 @@
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\bin\Debug\net8.0\StackGeneric.exe
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\bin\Debug\net8.0\StackGeneric.deps.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\bin\Debug\net8.0\StackGeneric.runtimeconfig.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\bin\Debug\net8.0\StackGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\bin\Debug\net8.0\StackGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.AssemblyInfo.cs
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\refint\StackGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\StackGeneric.genruntimeconfig.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\StackGeneric\obj\Debug\net8.0\ref\StackGeneric.dll
