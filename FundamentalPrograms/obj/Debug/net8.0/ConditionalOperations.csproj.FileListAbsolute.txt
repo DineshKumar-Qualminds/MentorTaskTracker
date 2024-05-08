@@ -1,0 +1,14 @@
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\bin\Debug\net8.0\ConditionalOperations.exe
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\bin\Debug\net8.0\ConditionalOperations.deps.json
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\bin\Debug\net8.0\ConditionalOperations.runtimeconfig.json
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\bin\Debug\net8.0\ConditionalOperations.dll
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\bin\Debug\net8.0\ConditionalOperations.pdb
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.AssemblyInfoInputs.cache
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.AssemblyInfo.cs
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.dll
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\refint\ConditionalOperations.dll
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.pdb
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ConditionalOperations.genruntimeconfig.cache
+C:\Users\QualMinds User\source\repos\Projects\ConditionalOperations\obj\Debug\net8.0\ref\ConditionalOperations.dll
