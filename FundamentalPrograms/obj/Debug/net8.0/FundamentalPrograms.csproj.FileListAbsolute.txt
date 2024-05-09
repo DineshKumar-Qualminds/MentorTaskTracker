@@ -1,0 +1,15 @@
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\bin\Debug\net8.0\FundamentalPrograms.exe
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\bin\Debug\net8.0\FundamentalPrograms.deps.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\bin\Debug\net8.0\FundamentalPrograms.runtimeconfig.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\bin\Debug\net8.0\FundamentalPrograms.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\bin\Debug\net8.0\FundamentalPrograms.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.AssemblyInfo.cs
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.sourcelink.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\refint\FundamentalPrograms.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\FundamentalPrograms.genruntimeconfig.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\Projects\obj\Debug\net8.0\ref\FundamentalPrograms.dll
