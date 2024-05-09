@@ -1,0 +1,14 @@
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\bin\Debug\net8.0\LinkedListGeneric.exe
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\bin\Debug\net8.0\LinkedListGeneric.deps.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\bin\Debug\net8.0\LinkedListGeneric.runtimeconfig.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\bin\Debug\net8.0\LinkedListGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\bin\Debug\net8.0\LinkedListGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.AssemblyInfo.cs
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\refint\LinkedListGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\LinkedListGeneric.genruntimeconfig.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\LinkedListGeneric\obj\Debug\net8.0\ref\LinkedListGeneric.dll

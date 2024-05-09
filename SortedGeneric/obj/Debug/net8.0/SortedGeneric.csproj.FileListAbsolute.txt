@@ -1,0 +1,14 @@
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\bin\Debug\net8.0\SortedGeneric.exe
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\bin\Debug\net8.0\SortedGeneric.deps.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\bin\Debug\net8.0\SortedGeneric.runtimeconfig.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\bin\Debug\net8.0\SortedGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\bin\Debug\net8.0\SortedGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.AssemblyInfo.cs
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\refint\SortedGeneric.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\SortedGeneric.genruntimeconfig.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\SortedGeneric\obj\Debug\net8.0\ref\SortedGeneric.dll
