@@ -1,0 +1,14 @@
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.exe
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.deps.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.runtimeconfig.json
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\bin\Debug\net8.0\ExceptionalHandling.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.AssemblyInfoInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.AssemblyInfo.cs
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\refint\ExceptionalHandling.dll
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.pdb
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ExceptionalHandling.genruntimeconfig.cache
+D:\VisualStudio\source\repos\Mentor Assignments\Projects\ExceptionalHandling\obj\Debug\net8.0\ref\ExceptionalHandling.dll
