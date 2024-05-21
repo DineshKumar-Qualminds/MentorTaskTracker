@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BankingApp.Models.Account>
+
+<h2>Accounts</h2>
+
+<p>
+    @Html.ActionLink("Create New Account", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Account Number</th>
+        <th>Account Holder</th>
+        <th>Balance</th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.AccountNumber</td>
+            <td>@item.AccountHolder</td>
+            <td>@item.Balance</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.AccountId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.AccountId })
+            </td>
+        </tr>
+    }
+</table>
