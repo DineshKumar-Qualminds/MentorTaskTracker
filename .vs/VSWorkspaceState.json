@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Generics",
+    "\\Inheritance",
+    "\\Inheritance\\bin",
+    "\\Inheritance\\bin\\Release",
+    "\\Inheritance\\bin\\Release\\net8.0",
+    "\\Inheritance\\obj",
+    "\\Inheritance\\obj\\Debug",
+    "\\Inheritance\\obj\\Debug\\net8.0",
+    "\\Inheritance\\obj\\Release",
+    "\\Inheritance\\obj\\Release\\net8.0"
+  ],
+  "SelectedNode": "\\Generics\\Stack.cs",
+  "PreviewInSolutionExplorer": false
+}

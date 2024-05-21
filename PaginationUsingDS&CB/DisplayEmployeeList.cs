@@ -8,7 +8,7 @@ namespace PaginationUsingADO
 {
     public class DisplayEmployeeList
     {
-        public static void DisplayEmployees(List<Employee> employees, int pageNumber, int pageSize)
+        /*public static void DisplayEmployees(List<Employee> employees, int pageNumber, int pageSize)
         {
             int startIndex = (pageNumber -1) * pageSize;    
             int endIndex = Math.Min(startIndex+pageSize-1,employees.Count-1);
@@ -26,6 +26,27 @@ namespace PaginationUsingADO
             Console.WriteLine("-----------------------------------------------------------------------------");
          
         }
-        
+        */
+        public static void DisplayEmployees(List<Employee> employees, int pageNumber, int pageSize)
+        {
+            int startIndex = (pageNumber - 1) * pageSize;
+
+            var pagedEmployees = employees
+                .Skip(startIndex)
+                .Take(pageSize)
+                .ToList();
+
+            Console.WriteLine("------------------------------------------------------------------------------------------------");
+            Console.WriteLine("|    Id    |   First Name   |   Last Name   |   Date of Birth   |             Email          |");
+            Console.WriteLine("-------------------------------------------------------------------------------------------------");
+
+            foreach (var employee in pagedEmployees)
+            {
+                Console.WriteLine($"| {employee.Id,-7} | {employee.FirstName,-14} | {employee.LastName,-13} | " +
+                    $"{employee.DateOfBirth.ToShortDateString(),-17} | {employee.EmailId,-20} |");
+            }
+
+            Console.WriteLine("-----------------------------------------------------------------------------");
+        }
     }
 }

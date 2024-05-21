@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaginationUsingADO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9285b4cc26ad9d848147ec5b88bc074c674e060b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5bb1d116e7460ae0f9f38233d7e718ab3d1936")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaginationUsingADO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaginationUsingADO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
